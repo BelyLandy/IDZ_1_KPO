@@ -1,4 +1,6 @@
 ﻿
+using ClassLibrary.Domain;
+
 namespace ClassLibrary
 {
     /// <summary>

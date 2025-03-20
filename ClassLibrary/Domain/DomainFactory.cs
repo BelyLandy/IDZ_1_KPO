@@ -1,5 +1,4 @@
-﻿
-namespace ClassLibrary
+﻿namespace ClassLibrary.Domain
 {
     /// <summary>
     /// Централизованное создание доменных объектов.
