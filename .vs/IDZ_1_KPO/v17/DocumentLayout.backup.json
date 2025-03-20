@@ -1,0 +1,637 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\domain\\domainfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\domain\\domainfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\ui\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\ui\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\ui\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\ui\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\ui\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\domain\\financeoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\domain\\financeoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\helpers\\helpmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\helpers\\helpmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84489D3-63B3-471B-B308-1BDB0ACCB961}|UnitTestsProject\\UnitTestsProject.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\unittestsproject\\financeoperationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84489D3-63B3-471B-B308-1BDB0ACCB961}|UnitTestsProject\\UnitTestsProject.csproj|solutionrelative:unittestsproject\\financeoperationstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84489D3-63B3-471B-B308-1BDB0ACCB961}|UnitTestsProject\\UnitTestsProject.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\unittestsproject\\operationfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84489D3-63B3-471B-B308-1BDB0ACCB961}|UnitTestsProject\\UnitTestsProject.csproj|solutionrelative:unittestsproject\\operationfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\infrastructure\\importexport\\yamlimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\infrastructure\\importexport\\yamlimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84489D3-63B3-471B-B308-1BDB0ACCB961}|UnitTestsProject\\UnitTestsProject.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\unittestsproject\\unittestsproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B84489D3-63B3-471B-B308-1BDB0ACCB961}|UnitTestsProject\\UnitTestsProject.csproj|solutionrelative:unittestsproject\\unittestsproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84489D3-63B3-471B-B308-1BDB0ACCB961}|UnitTestsProject\\UnitTestsProject.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\unittestsproject\\dataexportimporttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84489D3-63B3-471B-B308-1BDB0ACCB961}|UnitTestsProject\\UnitTestsProject.csproj|solutionrelative:unittestsproject\\dataexportimporttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\domain\\facades\\operationfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\domain\\facades\\operationfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\infrastructure\\importexport\\idataexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\infrastructure\\importexport\\idataexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84489D3-63B3-471B-B308-1BDB0ACCB961}|UnitTestsProject\\UnitTestsProject.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\unittestsproject\\accountfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84489D3-63B3-471B-B308-1BDB0ACCB961}|UnitTestsProject\\UnitTestsProject.csproj|solutionrelative:unittestsproject\\accountfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84489D3-63B3-471B-B308-1BDB0ACCB961}|UnitTestsProject\\UnitTestsProject.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\unittestsproject\\categoryfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B84489D3-63B3-471B-B308-1BDB0ACCB961}|UnitTestsProject\\UnitTestsProject.csproj|solutionrelative:unittestsproject\\categoryfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\infrastructure\\importexport\\jsonimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\infrastructure\\importexport\\jsonimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\infrastructure\\importexport\\jsonexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\infrastructure\\importexport\\jsonexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\infrastructure\\importexport\\idataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\infrastructure\\importexport\\idataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\infrastructure\\importexport\\exportdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\infrastructure\\importexport\\exportdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\infrastructure\\importexport\\dataexportimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\infrastructure\\importexport\\dataexportimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\infrastructure\\importexport\\csvimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\infrastructure\\importexport\\csvimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\infrastructure\\importexport\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\infrastructure\\importexport\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\domain\\facades\\categoryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\domain\\facades\\categoryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\domain\\facades\\accountfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\domain\\facades\\accountfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13659B63-E03E-467C-966E-01B0C944F313}|IDZ_1_KPO\\IDZ_1_KPO.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\idz_1_kpo\\idz_1_kpo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13659B63-E03E-467C-966E-01B0C944F313}|IDZ_1_KPO\\IDZ_1_KPO.csproj|solutionrelative:idz_1_kpo\\idz_1_kpo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13659B63-E03E-467C-966E-01B0C944F313}|IDZ_1_KPO\\IDZ_1_KPO.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\idz_1_kpo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13659B63-E03E-467C-966E-01B0C944F313}|IDZ_1_KPO\\IDZ_1_KPO.csproj|solutionrelative:idz_1_kpo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\infrastructure\\importexport\\yamlexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\infrastructure\\importexport\\yamlexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\infrastructure\\commands\\commandtimedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\infrastructure\\commands\\commandtimedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\infrastructure\\commands\\createaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\infrastructure\\commands\\createaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\infrastructure\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\infrastructure\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\infrastructure\\commands\\simplecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\infrastructure\\commands\\simplecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\domain\\entities\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\domain\\entities\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\domain\\entities\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\domain\\entities\\categorytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\domain\\entities\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\domain\\entities\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\domain\\entities\\operationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\domain\\entities\\operationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\domain\\financemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\domain\\financemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\dexte\\documents\\\u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0432\u0448\u044D\\idz_1_kpo\\classlibrary\\classlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BCF4A37-40B1-4B97-ABBD-8041FACF6D46}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\classlibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DomainFactory.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\DomainFactory.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Domain\\DomainFactory.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\DomainFactory.cs",
+              "RelativeToolTip": "ClassLibrary\\Domain\\DomainFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:08:05.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FinanceOperationsTests.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\UnitTestsProject\\FinanceOperationsTests.cs",
+              "RelativeDocumentMoniker": "UnitTestsProject\\FinanceOperationsTests.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\UnitTestsProject\\FinanceOperationsTests.cs",
+              "RelativeToolTip": "UnitTestsProject\\FinanceOperationsTests.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:18:19.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OperationFacade.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\Facades\\OperationFacade.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Domain\\Facades\\OperationFacade.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\Facades\\OperationFacade.cs",
+              "RelativeToolTip": "ClassLibrary\\Domain\\Facades\\OperationFacade.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswDUAAACzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:46:33.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitTestsProject.csproj",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\UnitTestsProject\\UnitTestsProject.csproj",
+              "RelativeDocumentMoniker": "UnitTestsProject\\UnitTestsProject.csproj",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\UnitTestsProject\\UnitTestsProject.csproj",
+              "RelativeToolTip": "UnitTestsProject\\UnitTestsProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T18:18:35.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YamlImporter.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\YamlImporter.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Infrastructure\\ImportExport\\YamlImporter.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\YamlImporter.cs",
+              "RelativeToolTip": "ClassLibrary\\Infrastructure\\ImportExport\\YamlImporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:31:28.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OperationFacadeTests.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\UnitTestsProject\\OperationFacadeTests.cs",
+              "RelativeDocumentMoniker": "UnitTestsProject\\OperationFacadeTests.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\UnitTestsProject\\OperationFacadeTests.cs",
+              "RelativeToolTip": "UnitTestsProject\\OperationFacadeTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:46:43.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HelpMethods.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Helpers\\HelpMethods.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Helpers\\HelpMethods.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Helpers\\HelpMethods.cs",
+              "RelativeToolTip": "ClassLibrary\\Helpers\\HelpMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:01:46.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinanceOperations.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\FinanceOperations.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Domain\\FinanceOperations.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\FinanceOperations.cs",
+              "RelativeToolTip": "ClassLibrary\\Domain\\FinanceOperations.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:50:23.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\UI\\MenuManager.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\UI\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\UI\\MenuManager.cs",
+              "RelativeToolTip": "ClassLibrary\\UI\\MenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:32:41.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\UI\\MenuItem.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\UI\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\UI\\MenuItem.cs",
+              "RelativeToolTip": "ClassLibrary\\UI\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:32:39.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\UI\\Menu.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\UI\\Menu.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\UI\\Menu.cs",
+              "RelativeToolTip": "ClassLibrary\\UI\\Menu.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA4wEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:32:32.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataExportImportTests.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\UnitTestsProject\\DataExportImportTests.cs",
+              "RelativeDocumentMoniker": "UnitTestsProject\\DataExportImportTests.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\UnitTestsProject\\DataExportImportTests.cs",
+              "RelativeToolTip": "UnitTestsProject\\DataExportImportTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:47:16.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDataExporter.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\IDataExporter.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Infrastructure\\ImportExport\\IDataExporter.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\IDataExporter.cs",
+              "RelativeToolTip": "ClassLibrary\\Infrastructure\\ImportExport\\IDataExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:26:56.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountFacadeTests.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\UnitTestsProject\\AccountFacadeTests.cs",
+              "RelativeDocumentMoniker": "UnitTestsProject\\AccountFacadeTests.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\UnitTestsProject\\AccountFacadeTests.cs",
+              "RelativeToolTip": "UnitTestsProject\\AccountFacadeTests.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwD8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:45:25.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryFacadeTests.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\UnitTestsProject\\CategoryFacadeTests.cs",
+              "RelativeDocumentMoniker": "UnitTestsProject\\CategoryFacadeTests.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\UnitTestsProject\\CategoryFacadeTests.cs",
+              "RelativeToolTip": "UnitTestsProject\\CategoryFacadeTests.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwDwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T18:45:57.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JsonImporter.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\JsonImporter.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Infrastructure\\ImportExport\\JsonImporter.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\JsonImporter.cs",
+              "RelativeToolTip": "ClassLibrary\\Infrastructure\\ImportExport\\JsonImporter.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:29:33.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JsonExporter.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\JsonExporter.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Infrastructure\\ImportExport\\JsonExporter.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\JsonExporter.cs",
+              "RelativeToolTip": "ClassLibrary\\Infrastructure\\ImportExport\\JsonExporter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAMBSwAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:01:20.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IDataImporter.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\IDataImporter.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Infrastructure\\ImportExport\\IDataImporter.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\IDataImporter.cs",
+              "RelativeToolTip": "ClassLibrary\\Infrastructure\\ImportExport\\IDataImporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:01:22.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExportDataModel.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\ExportDataModel.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Infrastructure\\ImportExport\\ExportDataModel.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\ExportDataModel.cs",
+              "RelativeToolTip": "ClassLibrary\\Infrastructure\\ImportExport\\ExportDataModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:26:05.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataExportImport.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\DataExportImport.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Infrastructure\\ImportExport\\DataExportImport.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\DataExportImport.cs",
+              "RelativeToolTip": "ClassLibrary\\Infrastructure\\ImportExport\\DataExportImport.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBAwEQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:21:51.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CsvImporter.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\CsvImporter.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Infrastructure\\ImportExport\\CsvImporter.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\CsvImporter.cs",
+              "RelativeToolTip": "ClassLibrary\\Infrastructure\\ImportExport\\CsvImporter.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAA4wFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:18:48.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CsvExporter.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\CsvExporter.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Infrastructure\\ImportExport\\CsvExporter.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\CsvExporter.cs",
+              "RelativeToolTip": "ClassLibrary\\Infrastructure\\ImportExport\\CsvExporter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:15:48.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountFacade.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\Facades\\AccountFacade.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Domain\\Facades\\AccountFacade.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\Facades\\AccountFacade.cs",
+              "RelativeToolTip": "ClassLibrary\\Domain\\Facades\\AccountFacade.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAywCUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:44:00.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryFacade.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\Facades\\CategoryFacade.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Domain\\Facades\\CategoryFacade.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\Facades\\CategoryFacade.cs",
+              "RelativeToolTip": "ClassLibrary\\Domain\\Facades\\CategoryFacade.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAywCkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:45:25.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "YamlExporter.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\YamlExporter.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Infrastructure\\ImportExport\\YamlExporter.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\ImportExport\\YamlExporter.cs",
+              "RelativeToolTip": "ClassLibrary\\Infrastructure\\ImportExport\\YamlExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:30:38.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IDZ_1_KPO.csproj",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\IDZ_1_KPO\\IDZ_1_KPO.csproj",
+              "RelativeDocumentMoniker": "IDZ_1_KPO\\IDZ_1_KPO.csproj",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\IDZ_1_KPO\\IDZ_1_KPO.csproj",
+              "RelativeToolTip": "IDZ_1_KPO\\IDZ_1_KPO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T02:53:19.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\IDZ_1_KPO\\Program.cs",
+              "RelativeDocumentMoniker": "IDZ_1_KPO\\Program.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\IDZ_1_KPO\\Program.cs",
+              "RelativeToolTip": "IDZ_1_KPO\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA4wAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T21:13:55.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "ClassLibrary\\Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:21:25.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\Entities\\BankAccount.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Domain\\Entities\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\Entities\\BankAccount.cs",
+              "RelativeToolTip": "ClassLibrary\\Domain\\Entities\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:17:42.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CommandTimeDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\Commands\\CommandTimeDecorator.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Infrastructure\\Commands\\CommandTimeDecorator.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\Commands\\CommandTimeDecorator.cs",
+              "RelativeToolTip": "ClassLibrary\\Infrastructure\\Commands\\CommandTimeDecorator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:12:33.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CategoryType.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\Entities\\CategoryType.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Domain\\Entities\\CategoryType.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\Entities\\CategoryType.cs",
+              "RelativeToolTip": "ClassLibrary\\Domain\\Entities\\CategoryType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:22:51.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateAccountCommand.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\Commands\\CreateAccountCommand.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Infrastructure\\Commands\\CreateAccountCommand.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\Commands\\CreateAccountCommand.cs",
+              "RelativeToolTip": "ClassLibrary\\Infrastructure\\Commands\\CreateAccountCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:13:51.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Infrastructure\\Commands\\ICommand.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\Commands\\ICommand.cs",
+              "RelativeToolTip": "ClassLibrary\\Infrastructure\\Commands\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:15:00.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SimpleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\Commands\\SimpleCommand.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Infrastructure\\Commands\\SimpleCommand.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Infrastructure\\Commands\\SimpleCommand.cs",
+              "RelativeToolTip": "ClassLibrary\\Infrastructure\\Commands\\SimpleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T17:15:39.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\Entities\\Operation.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Domain\\Entities\\Operation.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\Entities\\Operation.cs",
+              "RelativeToolTip": "ClassLibrary\\Domain\\Entities\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:24:24.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OperationType.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\Entities\\OperationType.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Domain\\Entities\\OperationType.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\Entities\\OperationType.cs",
+              "RelativeToolTip": "ClassLibrary\\Domain\\Entities\\OperationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:25:57.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FinanceManager.cs",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\FinanceManager.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Domain\\FinanceManager.cs",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\Domain\\FinanceManager.cs",
+              "RelativeToolTip": "ClassLibrary\\Domain\\FinanceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:49:36.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ClassLibrary.csproj",
+              "DocumentMoniker": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\ClassLibrary.csproj",
+              "RelativeDocumentMoniker": "ClassLibrary\\ClassLibrary.csproj",
+              "ToolTip": "C:\\Users\\dexte\\Documents\\\u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u0412\u0428\u042D\\IDZ_1_KPO\\ClassLibrary\\ClassLibrary.csproj",
+              "RelativeToolTip": "ClassLibrary\\ClassLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-19T21:18:25.041Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
