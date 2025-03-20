@@ -96,7 +96,10 @@
         {
             if (clear)
             {
-                Console.Clear(); // Очистка консоли.
+                if (OperatingSystem.IsWindows() && Console.IsOutputRedirected == false)
+                {
+                    Console.Clear();
+                }
             }
 
             Console.ForegroundColor = color; // Установка цвета текста.

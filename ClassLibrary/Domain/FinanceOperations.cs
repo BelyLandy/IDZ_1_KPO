@@ -258,7 +258,7 @@ namespace ClassLibrary
             }
             foreach (var acc in _financeManager.BankAccounts)
             {
-                _helpMethods.NiceOutput(acc.ToString(), ConsoleColor.White, title: 0);
+                _helpMethods.NiceOutput(acc.ToString(), ConsoleColor.White);
             }
 
             if (_financeManager.Categories.Count != 0)
@@ -267,7 +267,7 @@ namespace ClassLibrary
             }
             foreach (var cat in _financeManager.Categories)
             {
-                _helpMethods.NiceOutput(cat.ToString(), ConsoleColor.White, title: 0);
+                _helpMethods.NiceOutput(cat.ToString(), ConsoleColor.White);
             }
 
             if (_financeManager.Operations.Count != 0)
@@ -276,7 +276,7 @@ namespace ClassLibrary
             }
             foreach (var op in _financeManager.Operations)
             {
-                _helpMethods.NiceOutput(op.ToString(), ConsoleColor.White, title: 0);
+                _helpMethods.NiceOutput(op.ToString(), ConsoleColor.White);
             }
 
             if (_financeManager.BankAccounts.Count == 0

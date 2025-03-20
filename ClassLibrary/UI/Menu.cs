@@ -69,7 +69,7 @@ namespace ClassLibrary
                     if (Root == null)
                     {
                         Console.Clear();
-                        _helpMethods.NiceOutput("Приложение завершено!", ConsoleColor.Cyan, title: 1);
+                        _helpMethods.NiceOutput("Приложение завершено! Работу выполнил Девятов Денис Сергеевич БПИ-238", ConsoleColor.Cyan, title: 1);
                         Environment.Exit(0);
                     }
                     else
